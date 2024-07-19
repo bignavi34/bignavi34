@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dibyajyoti and I'm a   Flutter developer</h2>
+<h2 align="left">Hi 👋! My name is Dibyajyoti ,following my passion</h2>
 
 ###
 
